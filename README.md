@@ -66,6 +66,4 @@ no commands/projects yet
 
 Add your preferred license here (MIT, Apache 2.0, etc.)
 
----
 
-If you tell me what **rx1ucx actually does**, I can turn this into a 🔥 high-quality professional README instead of a general template.
